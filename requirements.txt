@@ -1,0 +1,28 @@
+# Student Course Management System - Requirements
+
+# Backend (Spring Boot)
+Java 17 or above
+Spring Boot 3.x
+Maven 3.9+
+MySQL 8.x
+Spring Data JPA
+Spring Security
+Validation (jakarta.validation)
+
+# Frontend (ReactJS)
+Node.js 18+
+npm 9+
+React 18+
+Axios
+Bootstrap (or Tailwind CSS, if used)
+
+# Tools
+Git
+Postman (for API testing)
+IDE: IntelliJ IDEA / Eclipse / VS Code
+Browser: Chrome/Edge
+
+# Database Configuration
+MySQL Database Name: studentcourse_db
+Username: root
+Password: <your_password>
